@@ -27,7 +27,7 @@ mvn test
 As this is a really simple project, you can use the command-line build tools or a light-weight IDE like [Visual Studio Code](https://code.visualstudio.com/).
 
 ## Overview
-
+-Run the file 
 The project represents an alpha version of a spaceship.
 
 - The ship (`SpaceShip` interface) can fire one or more lasers or torpedos.
