@@ -22,3 +22,4 @@ public interface SpaceShip {
   */
   public boolean fireTorpedo(FiringMode firingMode);
 }
+//Adding an extra line in order to check branch A
